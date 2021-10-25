@@ -1,6 +1,16 @@
-function pow (a, b){
-    // return a**b;
+// 1-Function uchun math.pow(); daraja uchun
 
-}
+// function pow (a, b){
+//     return a**b;
+
+// }
 // console.log(pow(2,3));
-console.log(Math.pow(2,3));
+// console.log(Math.pow(2,3));
+
+// 2- funtion * uchun
+
+// function calls (a, b){
+
+//     return a * b;
+// }
+// console.log(calls(2 , 3));
