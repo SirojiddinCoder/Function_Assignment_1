@@ -14,3 +14,11 @@
 //     return a * b;
 // }
 // console.log(calls(2 , 3));
+
+// 3- funtion ildiz uchun uchun
+
+// function sqrt (a){
+
+//     return a **0.5;
+// }
+// console.log(sqrt(100));
